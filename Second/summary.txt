@@ -1,0 +1,7 @@
+
+
+
+
+
+** What i learn **
++ Used Unsloth for the fine-tuining

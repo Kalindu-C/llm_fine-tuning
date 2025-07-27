@@ -1,0 +1,11 @@
+* For this fine tuining i used meadium article - https://dassum.medium.com/fine-tune-large-language-model-llm-on-a-custom-dataset-with-qlora-fb60abdeba07
+* I followed Initial steps
+* But while reading it is very hard to understand some of the content in the middle of the 
+  article
+* So i dicided to go for the youtube to get more insight
+* Tried to fine-tuned phi-2 model
+
+** What i learn **
++ key steps in fine-tuining
++ Fine tuining methods
++ Basic understanding about LoRA, QLoRA, Tokenization, Zero-shot inference
